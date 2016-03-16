@@ -1,0 +1,12 @@
+Gracz:pawel---Punkty:35---Czas:3.423s---Data:2016/01/12-18:06:14
+Gracz:null---Punkty:52---Czas:5.158s---Data:2016/01/22-10:34:41
+Gracz:null---Punkty:0---Czas:1.023s---Data:2016/01/28-18:43:23
+Gracz:null---Punkty:7---Czas:0.76s---Data:2016/01/28-19:20:52
+Gracz:Jakub---Punkty:10---Czas:1.02s---Data:2016/01/28-19:30:09
+Gracz:null---Punkty:9---Czas:0.904s---Data:2016/01/28-19:38:44
+Gracz:Jakub---Punkty:6---Czas:0.632s---Data:2016/01/28-19:41:46
+Gracz:null---Punkty:4---Czas:0.452s---Data:2016/01/28-20:56:29
+Gracz:null---Punkty:1---Czas:1.125s---Data:2016/01/28-21:17:36
+Gracz:null---Punkty:5---Czas:0.544s---Data:2016/01/28-21:18:00
+Gracz:null---Punkty:34---Czas:3.446s---Data:2016/01/31-18:57:41
+Gracz:null---Punkty:8---Czas:0.813s---Data:2016/01/31-18:57:44
